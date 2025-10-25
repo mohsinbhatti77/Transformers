@@ -1,0 +1,24 @@
+# Core NLP & Transformers
+transformers
+datasets
+tokenizers
+torch
+accelerate
+evaluate
+
+# Data Handling
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+tqdm
+
+# Optional but Recommended
+sentencepiece
+protobuf
+torchmetrics
+mlflow
+wandb
